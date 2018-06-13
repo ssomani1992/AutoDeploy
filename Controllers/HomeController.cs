@@ -17,5 +17,10 @@ namespace GitRepo.Controllers
         {
             return "Hello...";
         }
+
+        public string GetDetail()
+        {
+            return "C# Corner";
+        }
     }
 }
