@@ -15,7 +15,7 @@ namespace GitRepo.Controllers
         }
         public string hello()
         {
-            return "Hello...";
+            return "Hello Worlds!";
         }
 
         public string GetDetail()
