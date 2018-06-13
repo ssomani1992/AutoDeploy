@@ -13,5 +13,9 @@ namespace GitRepo.Controllers
         {
             return View();
         }
+        public string hello()
+        {
+            return "Hello...";
+        }
     }
 }
